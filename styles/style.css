@@ -1,0 +1,30 @@
+
+
+#game_box{
+    background: #878787;
+    /* height: 500px;
+    width: 500px; */
+    display: flex;
+}
+#game_box span div{
+    height: 16.66px;
+    width:  16.66px;
+    /* height: 100%;
+    width:  100%; */
+    border: 1px solid black;
+}
+
+
+.linha{
+    background: #182754;
+}
+.bola{
+    height: 16.66px;
+    width:  16.66px;
+    background: #ff0000;
+}
+.cobrinha{
+    height: 16.66px;
+    width:  16.66px;
+    background: #00ff00;
+}
